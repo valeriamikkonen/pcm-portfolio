@@ -1,0 +1,115 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+	font-family: 'Crimson Pro', serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+/* home page */
+header {
+	text-align: center;
+}
+.navbar {
+	background-color: #A68C6C;
+}
+
+h3 {
+	text-align: center;
+}
+
+.bio {
+	margin: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 30px;
+	background-color: #C5B4A0;
+	text-align: center;
+}
+
+.workshops {
+	margin: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 10px;
+	background-color: #C5B4A0;
+	text-align: center;
+}
+
+.contact {
+	margin: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 10px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	background-color: #C5B4A0;
+}
+footer {
+	background-color: #A68C6C;
+	padding: 10px;
+}
+
+/* semester 1 */
+
+h2 {
+	text-align: center;
+}
+h4 {
+	text-align: center;
+}
+.goals {
+	margin: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 20px;
+	background-color: #C5B4A0;
+}
+.reason {
+	margin: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 20px;
+}
+.proof {
+	margin: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 20px;
+}
+.feedback {
+	margin: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 20px;
+	background-color: #C5B4A0;
+}
+.reflection {
+	margin: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 20px;
+	background-color: #C5B4A0;
+}
+.next-semester {
+	margin: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 20px;
+}
+/* semester 2 */
+
+.feedback-sem2 {
+	margin: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 20px;
+}
+
+.pcm {
+	margin: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 20px;
+}
